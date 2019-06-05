@@ -234,3 +234,12 @@ footer {
 .small {
     font-size: .75em;
 }
+
+form {
+    margin-left: 8px;
+    min-width: 100%;
+}
+
+.mdl-textfield {
+    width: 100%;
+}

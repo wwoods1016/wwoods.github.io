@@ -244,3 +244,9 @@ form {
 .mdl-textfield {
     width: 100%;
 }
+
+#resume-img {
+  margin-top: 0;
+  object-position: 0 0;
+  object-fit: contain;
+}

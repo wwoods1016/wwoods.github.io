@@ -246,7 +246,12 @@ form {
 }
 
 #resume-img {
-  margin-top: 0;
+  margin: 0;
   object-position: 0 0;
   object-fit: contain;
+  max-height: 944px;
+}
+
+#resume-bottom {
+  margin-top: 0;
 }

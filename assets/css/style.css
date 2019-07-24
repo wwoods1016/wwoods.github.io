@@ -255,3 +255,11 @@ form {
 #resume-bottom {
   margin-top: 0;
 }
+
+#left-find {
+  margin-right: 20px;
+}
+
+#right-find {
+  margin-left: 20px;
+}
